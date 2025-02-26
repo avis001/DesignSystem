@@ -6,7 +6,7 @@
 //
 
 public extension String {
-    var empty: String {
+    static var empty: String {
         ""
     }
 }
