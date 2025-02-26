@@ -19,11 +19,11 @@ public enum Spacing {
 
 public enum CornerRadius {
     /// 8.0
-    public static let  level1 = 8
+    public static let  level1 = 8.0
     
     /// 12.0
-    public static let  level2 = 12
+    public static let  level2 = 12.0
     
     /// 16.0
-    public static let  level3 = 16
+    public static let  level3 = 16.0
 }
