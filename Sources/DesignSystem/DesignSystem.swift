@@ -15,6 +15,12 @@ public enum Spacing {
     
     /** 32 points - Extra large spacing */
     public static let xl: CGFloat = 32
+    
+    /** 64 points - Extra large spacing */
+    public static let xxl: CGFloat = 64
+    
+    /** 128 points - Extra large spacing */
+    public static let xxxl: CGFloat = 128
 }
 
 public enum CornerRadius {
